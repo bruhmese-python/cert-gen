@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>centre.png</file>
+        <file>blank_red.ico</file>
+    </qresource>
+</RCC>
